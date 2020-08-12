@@ -11,13 +11,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
       <Logo></Logo>
-
-     
-
       <SearchBar></SearchBar>
-
       <Footer></Footer>
 
     </div>

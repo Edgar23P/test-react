@@ -6,9 +6,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      
       <Logo></Logo>
     </div>
   );
 }
 
 export default App;
+/*
+crear rama nombre/feature
+1.- crear componente
+crear archivo css
+push rama 
+
+
+*/

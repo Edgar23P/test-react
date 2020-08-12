@@ -1,7 +1,11 @@
 import React from 'react';
 
 import Logo from './edgar/logo';
+
 import Footer from './edgarL/footer';
+
+import SearchBar from './alejo/search-bar';
+
 import './App.css';
 
 function App() {
@@ -9,7 +13,13 @@ function App() {
     <div className="App">
       
       <Logo></Logo>
+
+     
+
+      <SearchBar></SearchBar>
+
       <Footer></Footer>
+
     </div>
   );
 }

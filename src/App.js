@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Logo from './edgar/logo';
+import SearchBar from './alejo/search-bar';
 import './App.css';
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
     <div className="App">
       
       <Logo></Logo>
-      <SearchBar><SearchBar>
+      <SearchBar></SearchBar>
     </div>
   );
 }
